@@ -1,7 +1,7 @@
 # Generic Mission Flow
 
 ### All Teams
-Inventory Equipment
+Inventory Equipment <br>
 Identify Threat Agent
 
 ### Intel Team
