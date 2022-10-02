@@ -29,8 +29,12 @@ Send any IP/Machine's for inspection to host team
 
 #### Tools:
 NMAP
+- nmap -sV --script=banner <target>
 Network Miner
 Wireshark
+- Statistics Menu
+- Conversations
+- Protocol Heirarchy 
 Security Onion
 
 
@@ -41,6 +45,8 @@ If agents cannot be deployed, revise powershell script <br>
 
 Analyze security event logs <br>
 Analyze suspicious files <br>
+Registry Entries <br>
+Scheduled Tasks <br>
 
 #### Watch for:
 Data Exfil <br>
@@ -54,3 +60,9 @@ Rekall <br>
 Powershell <br>
 Volatility <br>
 FileAnalyzer <br>
+  
+### Web Team:
+ 
+#### Tools:
+  NMAP
+- nmap -sV -T4 -F website.com
